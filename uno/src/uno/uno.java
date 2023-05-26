@@ -12,6 +12,7 @@ public class uno {
 		System.out.println("adio");
 
 		String nombre1="b";
+		string nombre2="c";
 	}
 
 }

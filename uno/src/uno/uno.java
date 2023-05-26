@@ -8,6 +8,7 @@ public class uno {
 		String nombre="a";
 		System.out.println("adios");
 		String nombre1="b";
+		String nombre2="c";
 	}
 
 }

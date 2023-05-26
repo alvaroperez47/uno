@@ -6,7 +6,11 @@ public class uno {
 		// TODO Auto-generated method stub
 		System.out.println("hola");
 		String nombre="a";
-		System.out.println("adi");
+
+	
+
+		System.out.println("adio");
+
 		String nombre1="b";
 	}
 
